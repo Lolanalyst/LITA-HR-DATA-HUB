@@ -24,9 +24,21 @@ Primary source of data is excel which can be gotten at open source. This report 
   2. Data formatting and querying
   3. Data transformation
 
----
+
 ### Exploratory Data Analysis
 EDA involves answering some questions to create insights. Questions like
 - What is the attrition rate?
 - What is the total number of current employees?
 - Which of the department has high attrition rate?
+
+
+### Data Visualization
+
+
+![BI VISUALS3](https://github.com/user-attachments/assets/5e44a9cd-d56f-44f8-8701-64aa284df351)
+
+![HR DATA ANALYSI DASHBOARD 2](https://github.com/user-attachments/assets/f2c73f88-60e7-468a-970c-4630ce3c9670)
+
+![HR DATA ANALYSIS 3](https://github.com/user-attachments/assets/ee212c6a-1378-4bb4-9472-0a48ca39ce2d)
+
+
